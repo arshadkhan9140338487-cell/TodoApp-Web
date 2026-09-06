@@ -1,0 +1,35 @@
+.txtinput{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+input{
+    height: 35px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    width: 90px;
+    height: 30px;
+   border-radius: 5px;
+    border: 3px solid lightblue;
+}
+
+.delbtn{
+    margin-left: 15px;
+    margin-top: 4px;
+
+}
+
+.list{
+   color: dimgrey;
+   
+}
